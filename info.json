@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "33bf3a820d9e4673eafdce2c5d8ab0fd47f44f9d",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-15 20:21:58",
+    "files": 2,
+    "merge": false,
+    "message": "update man file\n"
+  },
+  "remote": "https://github.com/ropensci/rdryad",
+  "pkg": "rdryad"
+}
