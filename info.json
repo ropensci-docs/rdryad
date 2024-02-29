@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "526a982821c8d8888e3a2d18800822de55673b5b",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2023-01-30 15:40:04",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #40 from ropensci/noamross-deposits\n\nReference deprecation + deposits in README"
+  },
+  "repo": "https://github.com/ropensci/rdryad",
+  "pkg": "rdryad"
+}
