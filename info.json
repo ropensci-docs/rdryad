@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "47ce89d05d0608f468a036d8de19cd968df611c7",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2026-05-22T07:15:52Z",
+    "files": 4,
+    "merge": false,
+    "message": "update rcmdcheck badge with new workflow name\n"
+  },
+  "repo": "https://github.com/ropensci/rdryad",
+  "pkg": "rdryad",
+  "time": "2026-08-30T07:51:17Z"
+}
